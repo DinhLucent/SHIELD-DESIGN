@@ -1,0 +1,20 @@
+{
+  "name": "shield-design",
+  "version": "1.0.0",
+  "description": "The Next-Generation Agent-Agnostic Design & Protocol Engine",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export:pdf": "node scripts/export_deck_pdf.mjs",
+    "export:pptx": "node scripts/export_deck_pptx.mjs",
+    "export:video": "node scripts/render-video.js"
+  },
+  "keywords": [
+    "ai",
+    "design",
+    "presentation",
+    "agent"
+  ],
+  "author": "DinhLucent",
+  "license": "MIT"
+}

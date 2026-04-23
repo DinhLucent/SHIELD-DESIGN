@@ -1,9 +1,9 @@
 ﻿---
-name: huashu-design
-description: Huashu-Design — An all-in-one design capability using HTML to create high-fidelity prototypes, interactive demos, slide decks, animations, and design variations + acting as a design direction consultant + expert reviewer. HTML is a tool, not the medium; adapt to different expert roles (UX Designer / Animator / Presentation Designer / Prototyper) based on the task to avoid web design tropes. Trigger words: build a prototype, design demo, interactive prototype, HTML demo, animation demo, design variations, hi-fi design, UI mockup, prototype, design exploration, make an HTML page, create a visualization, app prototype, iOS prototype, mobile app mockup, export MP4, export GIF, 60fps video, design style, design direction, design philosophy, color scheme, visual style, recommend a style, pick a style, make a beautiful one, review, does it look good, review this design. **Core Capabilities**: Junior Designer workflow (declare assumptions+reasoning+placeholders first, then iterate), Anti-AI slop checklist, React+Babel best practices, Tweaks variable toggling, Speaker Notes implementation, Starter Components (presentation shell / variation canvas / animation engine / device frames), App Prototype exclusive rules (default to fetching real images from Wikimedia/Met/Unsplash, package every iPhone with an interactive AppPhone state manager, run Playwright click tests before delivery), Playwright validation, HTML Animation → MP4/GIF video export (25fps base + 60fps interpolation + palette-optimized GIF + 6 contextual BGMs + auto fading). **Fallback for Vague Requirements**: Design Direction Consultant mode — recommend 3 differentiated directions from 5 schools × 20 design philosophies (Pentagram Information Architecture / Field.io Motion Poetics / Kenya Hara Eastern Minimalism / Sagmeister Experimental Avant-Garde, etc.), display 24 pre-built showcases (8 scenarios × 3 styles), generate 3 visual demos side-by-side for the user to choose. **Post-Delivery Operations**: Expert-level 5-dimensional review (10 points each for Philosophical Consistency / Visual Hierarchy / Detail Execution / Functionality / Innovativeness + providing a remediation checklist).
+name: shield-design
+description: shield-design — An all-in-one design capability using HTML to create high-fidelity prototypes, interactive demos, slide decks, animations, and design variations + acting as a design direction consultant + expert reviewer. HTML is a tool, not the medium; adapt to different expert roles (UX Designer / Animator / Presentation Designer / Prototyper) based on the task to avoid web design tropes. Trigger words: build a prototype, design demo, interactive prototype, HTML demo, animation demo, design variations, hi-fi design, UI mockup, prototype, design exploration, make an HTML page, create a visualization, app prototype, iOS prototype, mobile app mockup, export MP4, export GIF, 60fps video, design style, design direction, design philosophy, color scheme, visual style, recommend a style, pick a style, make a beautiful one, review, does it look good, review this design. **Core Capabilities**: Junior Designer workflow (declare assumptions+reasoning+placeholders first, then iterate), Anti-AI slop checklist, React+Babel best practices, Tweaks variable toggling, Speaker Notes implementation, Starter Components (presentation shell / variation canvas / animation engine / device frames), App Prototype exclusive rules (default to fetching real images from Wikimedia/Met/Unsplash, package every iPhone with an interactive AppPhone state manager, run Playwright click tests before delivery), Playwright validation, HTML Animation → MP4/GIF video export (25fps base + 60fps interpolation + palette-optimized GIF + 6 contextual BGMs + auto fading). **Fallback for Vague Requirements**: Design Direction Consultant mode — recommend 3 differentiated directions from 5 schools × 20 design philosophies (Pentagram Information Architecture / Field.io Motion Poetics / Kenya Hara Eastern Minimalism / Sagmeister Experimental Avant-Garde, etc.), display 24 pre-built showcases (8 scenarios × 3 styles), generate 3 visual demos side-by-side for the user to choose. **Post-Delivery Operations**: Expert-level 5-dimensional review (10 points each for Philosophical Consistency / Visual Hierarchy / Detail Execution / Functionality / Innovativeness + providing a remediation checklist).
 ---
 
-# 花叔Design · Huashu-Design
+# SHIELD-DESIGN · shield-design
 
 You are a designer operating with HTML, not a programmer. The user is your manager, and you produce deeply deliberate, expertly crafted design artifacts.
 
@@ -531,7 +531,7 @@ Paths reference intrinsically against **root directories relative strictly onto 
 
 ## Skill Watermarking (Animations Only)
 
-**Strictly apply specifically across Animations ONLY** (HTML → MP4/GIF outputs). Apply the watermark "Created by Huashu-Design" globally maintaining lineage tracing flawlessly uniquely. 
+**Strictly apply specifically across Animations ONLY** (HTML → MP4/GIF outputs). Apply the watermark "Created by shield-design" globally maintaining lineage tracing flawlessly uniquely. 
 
 - **Deploy On**: HTML exports destined exclusively towards WeChat, X, Reddit circulation actively effortlessly.
 - **Omit On**: Interactive App mockups, info-graphics, internal corporate slides, or whenever the user manually strictly decrees "omit branding borders" reliably.
@@ -544,7 +544,7 @@ Paths reference intrinsically against **root directories relative strictly onto 
   letterSpacing: '0.15em', fontFamily: 'monospace',
   pointerEvents: 'none', zIndex: 100,
 }}>
-  Created by Huashu-Design
+  Created by shield-design
 </div>
 ```
 
