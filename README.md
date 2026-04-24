@@ -58,64 +58,52 @@ No buttons, no panels, no Figma plugins. Agent-agnostic — drops into any markd
 
 ## 🖼️ Demo Gallery
 
-> [!NOTE] 🎥 Placeholder: Hero Animation Video
-> **Script for Video/GIF Production**:
-> - **Duration**: ~10 seconds.
-> - **Flow**: High-speed terminal typing simulation -> Spawns 4 design directions -> Gallery expands via ripple effect -> Focus targets specific UI frames -> Final reveal of the SHIELD DESIGN brand logo.
+<p align="center"><img src="./src/hero-demo.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### Design Direction Advisor
 The fallback for vague briefs: pick 3 differentiated directions from 5 schools × 20 philosophies, generate all 3 demos in parallel, let the user choose.
 
-> [!NOTE] 📸 Placeholder: Fallback Advisor Demo
-> **Script for GIF Production**: Sequence demonstrating the AI spinning up 3 distinct design philosophies (e.g., East-Asian Minimalism alongside Western Corporate) rendering side-by-side inside the Design Canvas.
+<p align="center"><img src="./src/fallback-advisor.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### iOS App Prototype
 Pixel-accurate iPhone 15 Pro body (Dynamic Island / status bar / Home Indicator) · state-driven multi-screen navigation · real images pulled from Wikimedia/Met/Unsplash · Playwright click tests before delivery.
 
-> [!NOTE] 📱 Placeholder: iOS Prototype Interaction
-> **Script for GIF Production**: iPhone 15 mockup renders on screen. A cursor simulates clicking through bottom navigation tabs, followed immediately by an automated Playwright testing popup returning "Success".
+<p align="center"><img src="./src/ios-prototype.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### Motion Design Engine
 Stage + Sprite time-slice model · `useTime` / `useSprite` / `interpolate` / `Easing` — four APIs cover every animation need · one command exports MP4 / GIF / 60fps-interpolated / BGM-scored finals.
 
-> [!NOTE] 🎬 Placeholder: Motion Engine Showcase
-> **Script for GIF Production**: Features smooth 60fps animation loops: text sliding in with Expo-Out easing, and bounding boxes scaling symmetrically across a dark timeline background. 
+<p align="center"><img src="./src/motion-engine.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### HTML Slides → Editable PPTX
 HTML decks for browser presentation · `html2pptx.js` reads DOM computed styles and translates each element into real PowerPoint objects · exports are **actual text frames**, not image-bed fakes.
 
-> [!NOTE] 📊 Placeholder: HTML to PPTX Conversion
-> **Script for GIF Production**: Left panel shows an HTML slide deck running smoothly. Right panel opens a terminal rendering `export_deck_pptx.mjs`. Then PowerPoint opens the output explicitly showing independent text boxes being selected and edited.
+<p align="center"><img src="./src/html-to-pptx.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### Tweaks · Live Variation Switching
 Colors / typography / information density parameterized · side panel toggle · pure-frontend + `localStorage` persistence · survives reload.
 
-> [!NOTE] 🎛️ Placeholder: Tweaks UI Interface
-> **Script for GIF Production**: Screen recording of turning on a "Tweaks" sidebar panel. Parameter toggles are flipped (Dark mode, High Density), altering the primary design completely without requiring a page refresh.
+<p align="center"><img src="./src/tweaks-live.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### Infographic / Data Viz
 Magazine-grade typography · precise CSS Grid columns · `text-wrap: pretty` typographic details · driven by real data · exports to vector PDF / 300dpi PNG / SVG.
 
-> [!NOTE] 📰 Placeholder: Infographic Export
-> **Script for GIF Production**: Scrolling through a data-heavy visualization utilizing strict modular CSS Grids. Ends with clicking export to generate a flawless high-resolution vector PDF snippet.
+<p align="center"><img src="./src/infographic-export.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### 5-Dimension Expert Critique
 Philosophical coherence · visual hierarchy · execution craft · functionality · innovation — each scored 0–10 · radar-chart visualization · outputs Keep / Fix / Quick Wins punch list.
 
-> [!NOTE] 🎯 Placeholder: Expert Review Radar
-> **Script for GIF Production**: An animated Radar Chart rendering precisely 5 dimensions of design. A structured "Keep / Fix / Quick Wins" checklist materializes textually next to the graph.
+<p align="center"><img src="./src/expert-critique.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### Junior Designer Workflow
 No heroic one-shot attempts: start with assumptions + placeholders + reasoning, show it to the user early, then iterate. Fixing a misunderstanding early is 100× cheaper than fixing it late.
 
-> [!NOTE] 🧑‍💻 Placeholder: Junior Designer Process
-> **Script for GIF Production**: Quick terminal output showing AI planning assumptions (`<!-- Placeholder: Banner Image -->`). It renders simple gray boxes first, halting execution context. Upon user prompt confirmation, the gray boxes transform into complete designs.
+<p align="center"><img src="./src/junior-workflow.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ### Core Asset Protocol · 5-step hard process
 Mandatory whenever the task involves a specific brand: ask → search → download (three fallback paths) → verify + extract → write `brand-spec.md` covering **logo, product shots, UI screenshots, colors, fonts**.
 
-> [!NOTE] 🛡️ Placeholder: Brand Asset Protocol
-> **Script for GIF Production**: Fast sequence showing the agent searching a company's `/press` page, downloading an official SVG logo, executing a hex extraction, and safely committing variables into `brand-spec.md`.
+<p align="center"><img src="./src/brand-asset-protocol.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></p>
 
 ---
 
