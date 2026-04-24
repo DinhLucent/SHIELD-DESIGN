@@ -22,6 +22,10 @@
 
 3 to 30 minutes — you ship a **product launch animation**, a clickable App prototype, an editable PPT deck, or a print-grade infographic.
 
+<p align="center">
+  <img src="./src/hero-demo-alt.gif" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="SHIELD-DESIGN Output Demo">
+</p>
+
 Not "decent for AI" quality — it looks like a real design team made it. Give the skill your brand assets (logo, colors, UI screenshots) and it accurately reads your brand's voice; give it nothing and the built-in 20 design vocabularies still keep you totally out of AI slop territory.
 
 ---
